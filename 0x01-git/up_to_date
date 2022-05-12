@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 touch up_to_date
+||||||| 9f574ac
+=======
+touch up_to_date
+git pull [git pull]
+>>>>>>> 35ebc10831bf1b020f2a3679cdfae435c9155a15
